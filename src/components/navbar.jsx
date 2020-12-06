@@ -5,7 +5,7 @@ const NavbarLoto = () => {
   return (
     <nav>
       <Navbar bg="light">
-        <Navbar.Brand href="#home">Smart Loto</Navbar.Brand>
+        <Navbar.Brand href="/">Smart Loto</Navbar.Brand>
       </Navbar>
     </nav>
   );
